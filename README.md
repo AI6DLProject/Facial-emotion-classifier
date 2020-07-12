@@ -1,8 +1,5 @@
 # Facial-emotion-classifier
-Facial emotion classifier notebook
-The README for Facial Emotions Classifier Repo:
 
-Facial Emotions Classifier (Heading)
 
 The Facial Emotions Classifier, is a model that accurately predicts facial expressions. 
 
@@ -12,10 +9,14 @@ Three frameworks were used: PyTorch, fastai library and Tensorflow. After which 
 
 On the other hand, fastai made a Validation accuracy of 76%, using vgg19_bn.
 
-Group Members: (This will be a subheading)
+Group Members:
 
 Ojeifo Oziegbe
+
 Ayodele Adebayo
+
 Kayode Akanni
+
 Praise Taiwo
+
 Sharon Ibejih
